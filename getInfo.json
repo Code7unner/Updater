@@ -1,0 +1,8 @@
+{
+    "Version": "1.0.0",
+    "Description": "This script checks for new version",
+    "Contact": {
+        "Email": "example@gmail.com",
+        "Github": "http://github.com/example.com"
+    }
+}
